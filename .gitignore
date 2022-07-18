@@ -1,0 +1,8 @@
+output/
+
+jng-v0.1-alpha
+
+.vs/
+*.vcxproj.user
+
+imgui.ini
